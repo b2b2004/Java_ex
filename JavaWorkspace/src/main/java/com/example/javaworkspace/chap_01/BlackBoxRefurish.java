@@ -1,10 +1,10 @@
 package com.example.javaworkspace.chap_01;
 
 public class BlackBoxRefurish {
-    private String modelName;
-    private String resolution;
+    public String modelName;
+    String resolution; // 제어자 없으면 default임
     private int price;
-    private String color;
+    protected String color;
 
     public String getModelName() {
         return modelName;
