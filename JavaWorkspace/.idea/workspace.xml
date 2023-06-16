@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36fe17ff-39f1-48f0-951e-abffc4e7a658" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_01/BlackBoxRefurish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_01/BlackBoxRefurish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_01/_10_AccessModifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_01/_10_AccessModifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_01/BlackBoxRefurish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_01/BlackBoxRefurish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_01/_10_AccessModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_01/_10_AccessModifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,13 +53,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="애플리케이션._18_Enum">
-    <configuration name="_14_Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_01._14_Polymorphism" />
+  <component name="RunManager" selected="애플리케이션._04_ArrayList">
+    <configuration name="_01_AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_02._01_AbstractClass" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_01.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_15_Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_01._15_Super" />
+    <configuration name="_01_Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_03._01_Generics" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_01.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_16_Reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_01._16_Reference" />
+    <configuration name="_02_GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_03._02_GenericClass" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_01.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_17_Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_01._17_Final" />
+    <configuration name="_02_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_02._02_Interface" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_01.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_18_Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_01._18_Enum" />
+    <configuration name="_04_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_03._04_ArrayList" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_01.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션._18_Enum" />
-        <item itemvalue="애플리케이션._17_Final" />
-        <item itemvalue="애플리케이션._16_Reference" />
-        <item itemvalue="애플리케이션._15_Super" />
-        <item itemvalue="애플리케이션._14_Polymorphism" />
+        <item itemvalue="애플리케이션._04_ArrayList" />
+        <item itemvalue="애플리케이션._02_GenericClass" />
+        <item itemvalue="애플리케이션._01_Generics" />
+        <item itemvalue="애플리케이션._02_Interface" />
+        <item itemvalue="애플리케이션._01_AbstractClass" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +142,7 @@
       <workItem from="1686791408245" duration="892000" />
       <workItem from="1686795856801" duration="5012000" />
       <workItem from="1686819840149" duration="2720000" />
+      <workItem from="1686874671745" duration="7343000" />
     </task>
     <servers />
   </component>
