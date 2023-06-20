@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="36fe17ff-39f1-48f0-951e-abffc4e7a658" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_03/_08_Iterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_03/_08_Iterator.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +53,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="애플리케이션._07_Throws">
-    <configuration name="_03_Throw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_05._03_Throw" />
+  <component name="RunManager" selected="애플리케이션._02_Output">
+    <configuration name="_01_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._01_Input" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_05.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_05._04_Finally" />
+    <configuration name="_02_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._02_Output" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_05.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_05._05_TryWithResources" />
+    <configuration name="_03_Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_06._03_Join" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_05.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_06_CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_05._06_CustomException" />
+    <configuration name="_04_MultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_06._04_MultiThread" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_05.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_05._07_Throws" />
+    <configuration name="_05_Synchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_06._05_Synchronization" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_05.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션._07_Throws" />
-        <item itemvalue="애플리케이션._06_CustomException" />
-        <item itemvalue="애플리케이션._05_TryWithResources" />
-        <item itemvalue="애플리케이션._04_Finally" />
-        <item itemvalue="애플리케이션._03_Throw" />
+        <item itemvalue="애플리케이션._02_Output" />
+        <item itemvalue="애플리케이션._01_Input" />
+        <item itemvalue="애플리케이션._05_Synchronization" />
+        <item itemvalue="애플리케이션._04_MultiThread" />
+        <item itemvalue="애플리케이션._03_Join" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +146,7 @@
       <workItem from="1686986595803" duration="4100000" />
       <workItem from="1687006553322" duration="106000" />
       <workItem from="1687134663236" duration="10838000" />
+      <workItem from="1687250337875" duration="4239000" />
     </task>
     <servers />
   </component>
@@ -227,6 +227,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_01_Input.java</url>
+          <line>5</line>
+          <properties class="com.example.javaworkspace.chap_07._01_Input" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_02_Output.java</url>
+          <line>3</line>
+          <properties class="com.example.javaworkspace.chap_07._02_Output" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
