@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36fe17ff-39f1-48f0-951e-abffc4e7a658" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/goodjob.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_07/_03_File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_07/_04_Folder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_07/_05_FileAndFolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_07/_06_ReadWriteFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/example/javaworkspace/chap_07/_07_DeleteFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_03_File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_04_Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_05_FileAndFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_06_ReadWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_07_DeleteFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +65,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="애플리케이션._02_Output">
-    <configuration name="_01_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._01_Input" />
+  <component name="RunManager" selected="애플리케이션._04_Folder">
+    <configuration name="_03_File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._03_File" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_Output" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._02_Output" />
+    <configuration name="_04_Folder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._04_Folder" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
@@ -80,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_06._03_Join" />
+    <configuration name="_05_FileAndFolder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._05_FileAndFolder" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_06.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_MultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_06._04_MultiThread" />
+    <configuration name="_06_ReadWriteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._06_ReadWriteFile" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_06.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_Synchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_06._05_Synchronization" />
+    <configuration name="_07_DeleteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javaworkspace.chap_07._07_DeleteFile" />
       <module name="JavaWorkspace.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javaworkspace.chap_06.*" />
+          <option name="PATTERN" value="com.example.javaworkspace.chap_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션._02_Output" />
-        <item itemvalue="애플리케이션._01_Input" />
-        <item itemvalue="애플리케이션._05_Synchronization" />
-        <item itemvalue="애플리케이션._04_MultiThread" />
-        <item itemvalue="애플리케이션._03_Join" />
+        <item itemvalue="애플리케이션._04_Folder" />
+        <item itemvalue="애플리케이션._07_DeleteFile" />
+        <item itemvalue="애플리케이션._06_ReadWriteFile" />
+        <item itemvalue="애플리케이션._05_FileAndFolder" />
+        <item itemvalue="애플리케이션._03_File" />
       </list>
     </recent_temporary>
   </component>
@@ -147,11 +159,23 @@
       <workItem from="1687006553322" duration="106000" />
       <workItem from="1687134663236" duration="10838000" />
       <workItem from="1687250337875" duration="4239000" />
+      <workItem from="1687310306276" duration="2968000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,6 +269,29 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_04_Folder.java</url>
+          <line>5</line>
+          <properties class="com.example.javaworkspace.chap_07._04_Folder" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_05_FileAndFolder.java</url>
+          <line>5</line>
+          <properties class="com.example.javaworkspace.chap_07._05_FileAndFolder" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/javaworkspace/chap_07/_06_ReadWriteFile.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
